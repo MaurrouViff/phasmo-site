@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/output.css">
     <title>Document</title>
 </head>
-<body>
+<body class="flex flex-col p-0 m-0">
 <div class="grow">
 
 
