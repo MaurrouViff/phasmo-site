@@ -6,7 +6,9 @@ class MainController {
     public function __construct() {
         $this->actions = array(
             "defaut" => "accueil.php",
-            "accueil" => "accueil.php"
+            "accueil" => "accueil.php",
+            "enregistrement" => "enregistrement.php",
+            "connexion" => "connexion.php"
         );
     }
 
