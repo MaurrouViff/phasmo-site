@@ -8,7 +8,8 @@ class MainController {
             "defaut" => "accueil.php",
             "accueil" => "accueil.php",
             "enregistrement" => "enregistrement.php",
-            "connexion" => "connexion.php"
+            "connexion" => "connexion.php",
+            "entite" => "entite.php"
         );
     }
 

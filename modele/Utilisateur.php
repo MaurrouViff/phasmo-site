@@ -5,4 +5,8 @@ class Utilisateur extends Database {
 
     }
 
+    public function setUtilisateur() {
+
+    }
+
 }
