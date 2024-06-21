@@ -28,6 +28,11 @@
                     S'enregistrer
                 </a>
             </li>
+            <li class="nav-item">
+                <a href="./?action=testPanel" class="blue-btn">
+                    Test Panel
+                </a>
+            </li>
 
 
     </nav>

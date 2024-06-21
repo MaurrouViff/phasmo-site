@@ -1,11 +1,12 @@
 @charset "UTF-8";
-
+* {
+    font-family: Arial, "sans-serif";
+}
 body {
     display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
-    font-family: Poppings, "sans-serif";
 }
 
 .container {
@@ -15,11 +16,15 @@ body {
 .navbar {
     min-height: 70px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 0 24px;
 }
-
+header {
+    padding: 20px;
+    margin-bottom: -10px;
+    background-color: black;
+}
 .nav-menu {
     display: flex;
     justify-content: space-between;

@@ -9,7 +9,8 @@ class MainController {
             "accueil" => "accueil.php",
             "enregistrement" => "enregistrement.php",
             "connexion" => "connexion.php",
-            "entite" => "entite.php"
+            "entite" => "entite.php",
+            "testPanel" => "testPanel.php"
         );
     }
 
